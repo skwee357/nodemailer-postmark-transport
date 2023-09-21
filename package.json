@@ -1,0 +1,36 @@
+{
+  "name": "@skwee357/nodemailer-postmark-transport",
+  "version": "0.0.1",
+  "description": "Postmark transport for NodeMailer",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": {
+    "name": "Dmitry Kudryavtsev",
+    "url": "https://kudmitry.com"
+  },
+  "license": "ISC",
+  "keywords": [
+    "nodemailer",
+    "postmark",
+    "transport"
+  ],
+  "peerDependencies": {
+    "nodemailer": ">=6.x",
+    "@types/nodemailer": ">=6.x"
+  },
+  "dependencies": {
+    "postmark": "^3.0.19"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.3",
+    "@types/node": "^20.6.3",
+    "@types/nodemailer": "^6.4.10",
+    "typescript": "^5.2.2"
+  }
+}

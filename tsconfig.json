@@ -1,0 +1,9 @@
+{
+  "extends": "@tsconfig/recommended",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib",
+    "declaration": true,
+    "sourceMap": true
+  }
+}
