@@ -4,6 +4,7 @@
   "description": "Postmark transport for NodeMailer",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "private": false,
   "files": [
     "lib"
   ],
