@@ -5,6 +5,10 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "private": false,
+  "repository": {
+    "url": "https://github.com/skwee357/nodemailer-postmark-transport",
+    "type": "git"
+  },
   "files": [
     "lib"
   ],
