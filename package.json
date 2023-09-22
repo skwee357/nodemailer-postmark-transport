@@ -1,10 +1,11 @@
 {
   "name": "@skwee357/nodemailer-postmark-transport",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Postmark transport for NodeMailer",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "private": false,
+  "license": "MIT",
   "repository": {
     "url": "https://github.com/skwee357/nodemailer-postmark-transport",
     "type": "git"
