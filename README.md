@@ -1,4 +1,4 @@
-# An (un)official Nodemailer transport for Postmark
+# An unofficial Nodemailer transport for Postmark
 
 ## Install
 
